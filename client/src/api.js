@@ -1,4 +1,5 @@
-const API_URL = "http://localhost:5000";
+// const API_URL = "http://localhost:5000";
+const API_URL = "https://fashioncore-3l5h.onrender.com";
 
 function setAccessToken(token) {
   localStorage.setItem("token", token);
